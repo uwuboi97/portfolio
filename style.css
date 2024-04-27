@@ -2,13 +2,13 @@
      height: 100%;
      margin: 0;
      padding: 20px;
-     background-color: blue;
+     
  }
 
  body {
      display: flex;
      background-image: url("iwantedtodiehere_files/short2.gif");
-     background-color: blue;
+     background-color: rgba(255,255,255,0);
      background-blend-mode: lighten;
 
 
