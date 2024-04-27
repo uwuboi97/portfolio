@@ -8,7 +8,7 @@
  body {
      display: flex;
      background-image: url("iwantedtodiehere_files/short2.gif");
-     background-color: rgba(255,255,255,0);
+     background-color: blue;
      background-blend-mode: lighten;
 
 
