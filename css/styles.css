@@ -347,7 +347,6 @@ div,
 span,
 applet,
 object,
-iframe,
 h1,
 h2,
 h3,
@@ -428,6 +427,16 @@ video {
     font-size     : 100%;
     font          : inherit;
     vertical-align: baseline;
+}
+
+iframe {
+    
+    
+    
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -1732,8 +1741,8 @@ img.u-pull-left {
     position: absolute;
     top     : 0;
     left    : 0;
-    width   : 100%;
-    height  : 100%;
+    width   : 80%;
+    height  : 80%;
 }
 
 /* --------------------------------------------------------------------
