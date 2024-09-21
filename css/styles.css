@@ -3778,7 +3778,7 @@ td:last-child {
     display         : block;
     height          : 1px;
     width           : calc(100% - 2 * var(--gutter));
-    background-color: rgba(255, 255, 255, 0.04);
+    background-color: var(--color-body-bg);
     position        : absolute;
     top             : 0;
     left            : var(--gutter);
@@ -3786,7 +3786,6 @@ td:last-child {
 
 .s-footer__social svg path,
 .s-footer__social svg circle {
-    fill      : var(--color-gray-15);
     transition: all 0.1s;
 }
 
@@ -3800,7 +3799,6 @@ td:last-child {
 }
 
 .s-footer .link-list a {
-    color : var(--color-gray-15);
     border: none;
 }
 
