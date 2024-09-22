@@ -419,7 +419,8 @@ section,
 summary,
 time,
 mark,
-audio {
+audio,
+video {
     margin        : 0;
     padding       : 0;
     border        : 0;
@@ -428,17 +429,14 @@ audio {
     vertical-align: baseline;
 }
 
-iframe,
-video 
- {
+iframe {
+    
+    
+    
+      display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  display: block;
-}
-
-img{
-    pointer-events: none;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -993,6 +991,14 @@ p {
 
 a {
     text-decoration: none;
+}
+
+svg,
+img,
+video {
+    max-width: 100%;
+    height   : auto;
+    pointer-events: none
 }
 
 pre {
