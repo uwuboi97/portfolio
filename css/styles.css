@@ -431,7 +431,7 @@ video {
 
 iframe {
     
-    
+    pointer-events: none
     
       display: block;
   margin-left: auto;
