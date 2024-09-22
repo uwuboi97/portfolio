@@ -429,16 +429,16 @@ audio {
 }
 
 iframe,
-video,
-svg,
-img,
 video 
  {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  pointer-events: none;
   display: block;
+}
+
+img{
+    pointer-events: none;
 }
 
 /* HTML5 display-role reset for older browsers */
