@@ -419,8 +419,7 @@ section,
 summary,
 time,
 mark,
-audio,
-video {
+audio {
     margin        : 0;
     padding       : 0;
     border        : 0;
@@ -429,7 +428,9 @@ video {
     vertical-align: baseline;
 }
 
-iframe {
+iframe,
+video
+ {
     
     pointer-events: none
     
