@@ -435,7 +435,7 @@ video
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  pointer-events: none
+  pointer-events: none;
   display: block;
 }
 
