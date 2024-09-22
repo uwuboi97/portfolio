@@ -429,9 +429,11 @@ audio {
 }
 
 iframe,
-video
+video,
+svg,
+img,
+video 
  {
-    
   margin-left: auto;
   margin-right: auto;
   width: 50%;
@@ -991,14 +993,6 @@ p {
 
 a {
     text-decoration: none;
-}
-
-svg,
-img,
-video {
-    max-width: 100%;
-    height   : auto;
-    pointer-events: none
 }
 
 pre {
