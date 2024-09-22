@@ -432,12 +432,11 @@ iframe,
 video
  {
     
-    pointer-events: none
-    
-      display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  pointer-events: none
+  display: block;
 }
 
 /* HTML5 display-role reset for older browsers */
