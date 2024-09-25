@@ -2721,8 +2721,6 @@ td:last-child {
     font-size     : var(--text-display-2);
     line-height   : normal;
     letter-spacing: -0.015em;
-    margin-top    : 0;
-    margin-bottom : 0;
 }
 
 /* ------------------------------------------------------------------- 
