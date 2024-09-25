@@ -3064,6 +3064,7 @@ td:last-child {
     width           : 100%;
     position        : absolute;
     left            : 0;
+    font-size: 25px;
 }
 
 
