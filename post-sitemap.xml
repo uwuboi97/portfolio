@@ -8,25 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./slander/index.html</loc>
-		<lastmod>2025-01-30T12:01:58+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_005.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_005.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_006.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_023.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_014.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./ccc/index.html</loc>
 		<lastmod>2025-01-30T12:01:58+00:00</lastmod>
 		<image:image>
@@ -101,49 +82,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./hearth-2/index.html</loc>
-		<lastmod>2025-01-30T12:02:21+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/3_1-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/3_1-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/3_2-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./hearth-1/index.html</loc>
-		<lastmod>2025-01-30T12:02:21+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/4_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/4_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/04/4_2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/04/4_4-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/04/4_3-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./soup/index.html</loc>
 		<lastmod>2025-01-30T12:02:21+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/01/5_1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./dialogues/index.html</loc>
-		<lastmod>2025-01-30T12:02:21+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -189,25 +131,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./contemporary-art/index.html</loc>
-		<lastmod>2025-01-30T13:34:42+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/image32-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/Screenshot-2024-12-23-160013.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/4_2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/Screenshot-2025-01-30-212151.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/5_1-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./bsdotcom-com/index.html</loc>
 		<lastmod>2025-01-30T14:02:35+00:00</lastmod>
 		<image:image>
@@ -215,22 +138,102 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./contemporary-art/index.html</loc>
+		<lastmod>2025-01-30T16:28:05+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/image32-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/Screenshot-2024-12-23-160013.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/Screenshot-2025-01-30-212151.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/4_2-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/5_1-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./jamming-space-biocurrents-2024/index.html</loc>
-		<lastmod>2025-01-30T14:06:58+00:00</lastmod>
+		<lastmod>2025-01-30T16:33:39+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/12/IG_FA_4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/12/6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/12/18.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/12/Scan2024-11-27_151849.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/12/Scan2024-11-27_151548.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2024/12/18.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./slander/index.html</loc>
+		<lastmod>2025-01-30T16:38:22+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_005.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_005.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_006.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_031.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_023.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_014.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/SetMargins_Slander_027.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./dialogues/index.html</loc>
+		<lastmod>2025-01-30T16:39:22+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./hearth-1/index.html</loc>
+		<lastmod>2025-01-30T16:40:34+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/4_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/4_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/04/4_2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/04/4_4-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/04/4_3-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./hearth-2/index.html</loc>
+		<lastmod>2025-01-30T16:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/3_1-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/3_2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/04/DSCF7971.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
