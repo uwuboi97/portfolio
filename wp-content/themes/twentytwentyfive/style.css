@@ -23,6 +23,11 @@ a {
 	text-underline-offset: .1em;
 }
 
+a:focus {
+    outline: 0px !important;
+    outline: none !important;
+}
+
 /* Focus styles */
 :where(.wp-site-blocks *:focus) {
 	outline-width: 2px;
