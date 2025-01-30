@@ -276,6 +276,11 @@ body .simple-sitemap-menu li {
 	margin-top: 0;
 }
 
+a:focus {
+    outline: 0px !important;
+    outline: none !important;
+}
+
 /*.components-panel__row.simple-sitemap > .components-base-control {
   margin-bottom: 0;
 }*/
